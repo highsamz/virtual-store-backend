@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class VitualStoreApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(VitualStoreApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(VitualStoreApplication.class, args);
+    }
 
 }
